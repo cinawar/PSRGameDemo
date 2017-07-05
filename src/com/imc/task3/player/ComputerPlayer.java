@@ -13,7 +13,7 @@ import com.imc.task3.core.HandSymbol;
  * Provides a random HandSymbol through getSymbol() method
  * 
  * 
- * @author  Freddie Tiryaki
+ * @author  Ozgur Arslan
  * @version 1.0
  * @since   2016-01-24
  */
