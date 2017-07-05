@@ -21,7 +21,7 @@ import com.imc.task3.player.Player;
  * user will not be asked for another round. 
  * 
  * 
- * @author  Freddie Tiryaki
+ * @author  Ozgur Arslan
  * @version 1.0
  * @since   2016-01-24
  */
