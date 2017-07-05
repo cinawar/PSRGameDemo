@@ -15,7 +15,7 @@ import com.imc.task3.core.HandSymbol;
  * Provides methods for interaction with the real person
  * 
  * 
- * @author  Freddie Tiryaki
+ * @author  Ozgur Arslan
  * @version 1.0
  * @since   2016-01-24
  */
