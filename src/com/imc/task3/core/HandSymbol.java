@@ -6,7 +6,7 @@ package com.imc.task3.core;
  * Provides static Compare method
  * 
  * 
- * @author  Freddie Tiryaki
+ * @author  ozgur arslan
  * @version 1.0
  * @since   2016-01-24
  */
